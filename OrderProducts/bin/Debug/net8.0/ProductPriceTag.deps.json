@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductPriceTag/1.0.0": {
+        "runtime": {
+          "ProductPriceTag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductPriceTag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\bin\Debug\net8.0\ProductPriceTag.exe
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\bin\Debug\net8.0\ProductPriceTag.deps.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\bin\Debug\net8.0\ProductPriceTag.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\bin\Debug\net8.0\ProductPriceTag.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\bin\Debug\net8.0\ProductPriceTag.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\refint\ProductPriceTag.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ref\ProductPriceTag.dll

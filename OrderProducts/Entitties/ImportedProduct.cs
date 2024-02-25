@@ -23,7 +23,7 @@ namespace Order
 
         public override string PriceTag()
         {
-             return "Product Name: " + Name + " Price: " + TotalPrice().ToString("F2", CultureInfo.InvariantCulture) + $"(Customs Fee: $ {CustomsFee} )";
+             return "Product Name: " + Name + " Price: " + TotalPrice().ToString("F2", CultureInfo.InvariantCulture) + $"(Customs Fee: $ {CustomsFee.ToString("F2", CultureInfo.InvariantCulture)} )";
         }
         
     }

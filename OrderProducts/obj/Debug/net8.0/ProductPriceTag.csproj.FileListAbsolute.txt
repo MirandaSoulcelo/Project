@@ -12,3 +12,4 @@ C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0
 C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.pdb
 C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.genruntimeconfig.cache
 C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ref\ProductPriceTag.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\Project\OrderProducts\obj\Debug\net8.0\ProductPriceTag.sourcelink.json

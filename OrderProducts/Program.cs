@@ -28,7 +28,7 @@ for(int i = 1; i <= n; i++)
     else if(ch == 'i'|| ch =='I')
     {
         Console.Write("Customs Fee: ");
-        double customsFee = double.Parse(Console.ReadLine());
+        double customsFee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         list.Add(new ImportedProduct(name, price, customsFee));
          Console.WriteLine();
     }
